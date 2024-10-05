@@ -1,14 +1,18 @@
 body {
-    background-image: url("messias.jpg");
+background-image: url("messias.jpg");
     background-size: cover;
     overflow: hidden; 
-    color: #151414;
-}
+    color: #151414;}
 h1 {font-size: 100px;}
 h2 {font-size: 70px;}
 p {font-size: 30px;}
 .cssmessi{
+    
     width: 1000px;
 border: 5px solid #2bd510;
 border-radius: 10px;
+}
+.imagen-destacada {
+    border: 10px solid #ff6347;
+    filter: grayscale(50%);
 }
